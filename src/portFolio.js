@@ -1,4 +1,5 @@
 import React from 'react';
+import profilePic from "../src/assets/imagefolio.jpg"
 
 export default function Folio() {
   return (
@@ -33,11 +34,14 @@ export default function Folio() {
               </div>
             </div>
 
-            <div className="mt-6 md:mt-0 flex justify-center">
-              <div className="w-44 h-44 rounded-full bg-gradient-to-br from-indigo-400 to-pink-400 flex items-center justify-center text-white text-lg font-semibold">
-                J N
-              </div>
-            </div>
+           <div className="mt-6 md:mt-0 flex justify-center">
+  <img
+    src={profilePic}
+    alt="Joseph Nishanth"
+    className="w-44 h-44 object-cover rounded-full shadow-lg border"
+  />
+</div>
+
           </div>
         </section>
 
