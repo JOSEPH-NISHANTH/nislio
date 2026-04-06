@@ -71,7 +71,7 @@ export default function Folio() {
               <p className="text-sm text-gray-600">
                 Phone: +91 8248791651<br />
                 Email: josephvgw@gmail.com<br />
-                Location: Trichy, Tamil Nadu, India
+                Location: Tirunelveli, Tamil Nadu, India
               </p>
             </div>
           </div>
