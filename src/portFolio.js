@@ -147,7 +147,7 @@ export default function Folio() {
               <h4 className="font-medium mb-3">Get in touch</h4>
               <p className="text-sm text-gray-600 mb-1">Phone: +91 8248791651</p>
               <p className="text-sm text-gray-600 mb-1">Email: josephvgw@gmail.com</p>
-              <p className="text-sm text-gray-600">Location: Trichy, Tamil Nadu, India</p>
+              <p className="text-sm text-gray-600">Location: Tirunelveli, Tamil Nadu, India</p>
             </div>    
           </div>
         </section>
